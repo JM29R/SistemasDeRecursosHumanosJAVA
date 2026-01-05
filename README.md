@@ -20,10 +20,6 @@ SistemasDeRecursosHumanosJAVA
     ├── pages  
     └── services  
 
-Separación clara de responsabilidades.  
-Arquitectura desacoplada.  
-Comunicación mediante JSON.
-
 ---
 
 ## 🚀 Tecnologías Utilizadas
